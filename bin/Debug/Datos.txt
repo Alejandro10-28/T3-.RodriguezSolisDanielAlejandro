@@ -1,0 +1,18 @@
+1,Daniel solis,Ingeniero,23
+2,Alexa olvera,Licenciado,54
+3,Miguel rodriguez,Ejecutivo,25
+4,Vicente cazarez,Medico,35
+5,Roman trasviña,Operador,34
+6,Axel soto,Mecatronico,32
+7,Alejandro solis,Contador,64
+8,Luis licona,Contador,33
+9,vicente guillermo,Mecatronico,35
+10,Javier,Ingeniero,28
+11,Roman hernandez,Ingeniero,24
+12,Daniel soto,Contador,23
+13,Miguel cazarez,Ingeniero,23
+14,Alexa licona,Ingeniero,24
+15,Wenceslao guillermo,Medico,21
+16,Mario silva,Ingeniero,26
+17,Mateo ontero,Contador,27
+18,Juan hernandez,Ingeniero,28
